@@ -8,6 +8,7 @@
 #include <queue>
 #include <mutex>
 #include <assert.h>
+#include <algorithm>
 #include "server_listen_params.h"
 #include "server_queued_packet.h"
 #include "server_event.h"
